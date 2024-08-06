@@ -1,0 +1,12 @@
+{
+    "BASE_URL": "https://api.ticketshala.com",
+    "SITE_URL": "https://ticketshala.com",
+    "AGENCY_URL": "https://partner.ticketshala.com",
+	"MEDIA_URL": "https://ticketshala-media-prod.s3.ap-southeast-1.amazonaws.com/",
+    "FACEBOOK_APP_ID": "297215938698431",
+    "GOOGLE_CLIENT_ID": "127892948850-bfof74ued38e2flo907bfop2nt1ra34o.apps.googleusercontent.com",
+	"GIATA_URL": "https://photos.hotelbeds.com/giata/original/",
+    "ENVIRONMENT": "production",
+    "MAP_API_KEY": "AIzaSyCPDvb1McAq_y_94mSpXwWMBNhhjw62Rjk",
+	"GOOGLE_CAPTCHA": "6Lcswf0gAAAAAGXeAxccudHsy_pJHz5fRZCS-HB6"
+}

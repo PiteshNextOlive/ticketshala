@@ -1,0 +1,598 @@
+{
+    "segmentationGroups": [
+        {
+            "code": 1,
+            "name": "Categories",
+            "segments": [
+                {
+                    "code": 1,
+                    "name": "City tours"
+                },
+                {
+                    "code": 2,
+                    "name": "Amusement Parks"
+                },
+                {
+                    "code": 3,
+                    "name": "Tickets & Attraction Passes"
+                },
+                {
+                    "code": 4,
+                    "name": "Art & culture"
+                },
+                {
+                    "code": 5,
+                    "name": "Shows, sports and special events"
+                },
+                {
+                    "code": 6,
+                    "name": "Gastronomy & nightlife"
+                },
+                {
+                    "code": 7,
+                    "name": "Outdoor activities & Adventure"
+                },
+                {
+                    "code": 8,
+                    "name": "Day Trips & Excursions"
+                },
+                {
+                    "code": 9,
+                    "name": "Zoo, Aquarium & Nature"
+                },
+                {
+                    "code": 10,
+                    "name": "Classes"
+                },
+                {
+                    "code": 11,
+                    "name": "Spa & Wellness"
+                },
+                {
+                    "code": 12,
+                    "name": "Transport & Rentals"
+                },
+                {
+                    "code": 13,
+                    "name": "Air, Helicopter & Balloon Tours"
+                },
+                {
+                    "code": 14,
+                    "name": "Cruise & Water Tours"
+                },
+                {
+                    "code": 15,
+                    "name": "Travel Services"
+                },
+                {
+                    "code": 16,
+                    "name": "Tour & activities"
+                },
+                {
+                    "code": 824,
+                    "name": "Specialist tours"
+                },
+                {
+                    "code": 902,
+                    "name": "Bundle"
+                }
+            ]
+        },
+        {
+            "code": 2,
+            "name": "Duration",
+            "segments": [
+                {
+                    "code": 765,
+                    "name": "Multiday"
+                },
+                {
+                    "code": 771,
+                    "name": "Flexible"
+                },
+                {
+                    "code": 772,
+                    "name": "Full day"
+                },
+                {
+                    "code": 773,
+                    "name": "Half-day morning"
+                },
+                {
+                    "code": 774,
+                    "name": "Half-day afternoon"
+                },
+                {
+                    "code": 814,
+                    "name": "Evening"
+                }
+            ]
+        },
+        {
+            "code": 3,
+            "name": "Recommended activity for",
+            "segments": [
+                {
+                    "code": 775,
+                    "name": "Families with kids"
+                },
+                {
+                    "code": 776,
+                    "name": "Adult only"
+                },
+                {
+                    "code": 777,
+                    "name": "Couples"
+                },
+                {
+                    "code": 778,
+                    "name": "Families"
+                },
+                {
+                    "code": 779,
+                    "name": "Senior"
+                },
+                {
+                    "code": 780,
+                    "name": "Youth"
+                }
+            ]
+        },
+        {
+            "code": 4,
+            "name": "Theme",
+            "segments": [
+                {
+                    "code": 781,
+                    "name": "Shopping, markets and souks"
+                },
+                {
+                    "code": 782,
+                    "name": "Collection"
+                },
+                {
+                    "code": 783,
+                    "name": "Culture & Sights"
+                },
+                {
+                    "code": 784,
+                    "name": "Nature"
+                },
+                {
+                    "code": 785,
+                    "name": "Time Out"
+                },
+                {
+                    "code": 786,
+                    "name": "Entertainment"
+                },
+                {
+                    "code": 787,
+                    "name": "Food & Drink"
+                },
+                {
+                    "code": 788,
+                    "name": "Activities"
+                },
+                {
+                    "code": 789,
+                    "name": "Ocean College"
+                },
+                {
+                    "code": 790,
+                    "name": "MyMagic+"
+                },
+                {
+                    "code": 791,
+                    "name": "Theme Park"
+                }
+            ]
+        },
+        {
+            "code": 5,
+            "name": "Suitable for",
+            "segments": [
+                {
+                    "code": 792,
+                    "name": "Adult Only"
+                },
+                {
+                    "code": 793,
+                    "name": "Loud & Lively"
+                },
+                {
+                    "code": 794,
+                    "name": "Designed for Couples"
+                },
+                {
+                    "code": 795,
+                    "name": "Great for Groups"
+                },
+                {
+                    "code": 796,
+                    "name": "Perfect for Families"
+                }
+            ]
+        },
+        {
+            "code": 6,
+            "name": "Activity Level",
+            "segments": [
+                {
+                    "code": 797,
+                    "name": "Easy"
+                },
+                {
+                    "code": 798,
+                    "name": "Moderate"
+                },
+                {
+                    "code": 799,
+                    "name": "Strenuous"
+                }
+            ]
+        },
+        {
+            "code": 7,
+            "name": "Duration",
+            "segments": [
+                {
+                    "code": 800,
+                    "name": "Half-day morning"
+                },
+                {
+                    "code": 801,
+                    "name": "Full day"
+                },
+                {
+                    "code": 802,
+                    "name": "Flexible"
+                },
+                {
+                    "code": 803,
+                    "name": "Evening"
+                },
+                {
+                    "code": 804,
+                    "name": "Multi-day"
+                },
+                {
+                    "code": 805,
+                    "name": "Half-day afternoon"
+                },
+                {
+                    "code": 806,
+                    "name": "Short"
+                },
+                {
+                    "code": 807,
+                    "name": "Overnight"
+                }
+            ]
+        },
+        {
+            "code": 8,
+            "name": "Mainstream Theme",
+            "segments": [
+                {
+                    "code": 808,
+                    "name": "Go out"
+                },
+                {
+                    "code": 809,
+                    "name": "Go local"
+                },
+                {
+                    "code": 810,
+                    "name": "Go active"
+                },
+                {
+                    "code": 811,
+                    "name": "Go relax"
+                },
+                {
+                    "code": 812,
+                    "name": "Go shopping"
+                },
+                {
+                    "code": 813,
+                    "name": "Go extra"
+                }
+            ]
+        },
+        {
+            "code": 10,
+            "name": "Multi-day Tour Type",
+            "segments": [
+                {
+                    "code": 867,
+                    "name": "Self-drive tours"
+                },
+                {
+                    "code": 868,
+                    "name": "Private tours"
+                },
+                {
+                    "code": 869,
+                    "name": "Seat in coach scheduled departures"
+                },
+                {
+                    "code": 870,
+                    "name": "Mini cruises"
+                }
+            ]
+        },
+        {
+            "code": 11,
+            "name": "Multi-day Tour Theme",
+            "segments": [
+                {
+                    "code": 871,
+                    "name": "City Break"
+                },
+                {
+                    "code": 872,
+                    "name": "Sun and Beach"
+                },
+                {
+                    "code": 873,
+                    "name": "Cultural tours"
+                },
+                {
+                    "code": 874,
+                    "name": "Pilgrimage / Religion"
+                },
+                {
+                    "code": 875,
+                    "name": "Gastronomy tours"
+                },
+                {
+                    "code": 876,
+                    "name": "Safari, 4x4, quad"
+                },
+                {
+                    "code": 877,
+                    "name": "Ski, snow"
+                },
+                {
+                    "code": 878,
+                    "name": "Trekking"
+                },
+                {
+                    "code": 879,
+                    "name": "Adventure"
+                },
+                {
+                    "code": 880,
+                    "name": "Nature and wildlife"
+                },
+                {
+                    "code": 881,
+                    "name": "Motorcycle tours"
+                },
+                {
+                    "code": 882,
+                    "name": "Mountain biking"
+                },
+                {
+                    "code": 883,
+                    "name": "Cycling"
+                },
+                {
+                    "code": 884,
+                    "name": "Golf"
+                },
+                {
+                    "code": 885,
+                    "name": "Multisport"
+                },
+                {
+                    "code": 886,
+                    "name": "Spa and Wellness"
+                },
+                {
+                    "code": 887,
+                    "name": "Educational tours"
+                },
+                {
+                    "code": 890,
+                    "name": "Rail tours "
+                }
+            ]
+        },
+        {
+            "code": 12,
+            "name": "Multi-day Tour Duration",
+            "segments": [
+                {
+                    "code": 891,
+                    "name": "2-3 days"
+                },
+                {
+                    "code": 892,
+                    "name": "4-7 days"
+                },
+                {
+                    "code": 893,
+                    "name": "8-14 days"
+                },
+                {
+                    "code": 894,
+                    "name": "15-21 days"
+                },
+                {
+                    "code": 895,
+                    "name": "More than 21 days"
+                }
+            ]
+        },
+        {
+            "code": 13,
+            "name": "Multi-day Tour Target",
+            "segments": [
+                {
+                    "code": 896,
+                    "name": "Families with kids"
+                },
+                {
+                    "code": 897,
+                    "name": "Adults only"
+                },
+                {
+                    "code": 898,
+                    "name": "Couples"
+                },
+                {
+                    "code": 899,
+                    "name": "Senior"
+                },
+                {
+                    "code": 900,
+                    "name": "Youth"
+                },
+                {
+                    "code": 901,
+                    "name": "Volunteers"
+                }
+            ]
+        },
+        {
+            "code": 14,
+            "name": "Supplier",
+            "segments": [
+                {
+                    "code": 920,
+                    "name": "Big Bus"
+                },
+                {
+                    "code": 921,
+                    "name": "City Sightseeing Worldwide"
+                },
+                {
+                    "code": 922,
+                    "name": "Urban Adventures"
+                },
+                {
+                    "code": 923,
+                    "name": "Context"
+                },
+                {
+                    "code": 924,
+                    "name": "Gray Line"
+                },
+                {
+                    "code": 925,
+                    "name": "Lip Smacking Tours"
+                },
+                {
+                    "code": 926,
+                    "name": "Premium Tours"
+                },
+                {
+                    "code": 927,
+                    "name": "Walks of Paris"
+                },
+                {
+                    "code": 928,
+                    "name": "Walks of Italy"
+                },
+                {
+                    "code": 929,
+                    "name": "Walks USA"
+                },
+                {
+                    "code": 930,
+                    "name": "Evan Evans"
+                },
+                {
+                    "code": 931,
+                    "name": "Key Tours"
+                },
+                {
+                    "code": 932,
+                    "name": "Pink Jeep"
+                },
+                {
+                    "code": 933,
+                    "name": "Plaza Premium Lounge"
+                },
+                {
+                    "code": 934,
+                    "name": "Maverick"
+                },
+                {
+                    "code": 935,
+                    "name": "City Wonders"
+                },
+                {
+                    "code": 939,
+                    "name": "Papillon"
+                },
+                {
+                    "code": 954,
+                    "name": "Landsea Tours"
+                },
+                {
+                    "code": 955,
+                    "name": "Golden Tours – Gray Line London"
+                },
+                {
+                    "code": 958,
+                    "name": "Travel Curious"
+                }
+            ]
+        },
+        {
+            "code": 15,
+            "name": "Voucher validity",
+            "segments": [
+                {
+                    "code": 937,
+                    "name": "Service date"
+                },
+                {
+                    "code": 938,
+                    "name": "Flexible"
+                },
+                {
+                    "code": 944,
+                    "name": "Seasonal"
+                }
+            ]
+        },
+        {
+            "code": 16,
+            "name": "Services",
+            "segments": [
+                {
+                    "code": 946,
+                    "name": "Private"
+                },
+                {
+                    "code": 947,
+                    "name": "Small group"
+                },
+                {
+                    "code": 949,
+                    "name": "Tailor-made"
+                },
+                {
+                    "code": 950,
+                    "name": "Shore excursions"
+                },
+                {
+                    "code": 951,
+                    "name": "Skip the line-Fast track"
+                },
+                {
+                    "code": 952,
+                    "name": "Wheelchair accessible"
+                },
+                {
+                    "code": 956,
+                    "name": "Safe2Stay"
+                }
+            ]
+        }
+    ]
+}

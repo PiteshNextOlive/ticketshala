@@ -1,0 +1,41 @@
+
+.search-btn {
+    color: #fff;
+    width: 14rem;
+    .text-xl {
+        font-size: 1.25rem;
+    }
+} 
+
+
+@media (max-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ 
+
+}
+
+
+@media (max-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ 
+
+}
+
+
+@media (max-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ 
+    .c-search-res-items {
+        font-size: 14px;
+        padding: 0.3rem 0.5rem !important;
+    }
+    .c-search-res-items .font-light {
+        font-size: 12px;
+    }
+    .search-container .flex.relative, .search-container .flex.relative:hover {
+      min-height: 65px;
+    }
+    .btn-search .search-btn {
+        width: 8rem;
+        .text-xl {
+        font-size: 1rem;
+        }
+    } 
+    .text-base{
+        font-size: 0.9rem;
+    }
+} 

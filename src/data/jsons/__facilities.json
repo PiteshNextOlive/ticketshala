@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Garden",
+    "icon": "FaSeedling",
+    "code": 125
+  },
+  {
+    "name": "Terrace",
+    "icon": "FaBuilding",
+    "code": 135
+  },
+  {
+    "name": "Launderette",
+    "icon": "FaDumpster",
+    "code": 285
+  },
+  {
+    "name": "Medical service",
+    "icon": "FaClinicMedical",
+    "code": 290
+  },
+  {
+    "name": "Electric vehicle charging station",
+    "icon": "FaChargingStation",
+    "code": 321
+  },
+  {
+    "name": "Day-care centre",
+    "icon": "FaHospital",
+    "code": 475
+  },
+  {
+    "name": "Babysitting service",
+    "icon": "FaBabyCarriage",
+    "code": 485
+  },
+  {
+    "name": "Transfer service",
+    "icon": "FaBus",
+    "code": 495
+  },
+  {
+    "name": "Multilingual staff",
+    "icon": "FaLanguage",
+    "code": 505
+  },
+  {
+    "name": "Newspapers",
+    "icon": "FaNewspaper",
+    "code": 515
+  },
+  {
+    "name": "Bellboy service",
+    "icon": "FaRegBell",
+    "code": 525
+  },
+  {
+    "name": "Small pets allowed (under 5 kg)",
+    "icon": "FaDog",
+    "code": 535
+  },
+  {
+    "name": "Golf desk",
+    "icon": "FaGolfBall",
+    "code": 545
+  },
+  {
+    "name": "Wi-fi",
+    "icon": "FaWifi",
+    "code": 550
+  },
+  {
+    "name": "Local and international calls",
+    "icon": "FaPhoneAlt",
+    "code": 556
+  },
+  {
+    "name": "Luggage room",
+    "icon": "FaLuggageCart",
+    "code": 559
+  },
+  {
+    "name": "Oven",
+    "icon": "FaWeight",
+    "code": 566
+  },
+  {
+    "name": "Dining area",
+    "icon": "FaUtensils",
+    "code": 567
+  },
+  {
+    "name": "Clothes dryer",
+    "icon": "MdDryCleaning",
+    "code": 568
+  },
+  {
+    "name": "BBQ facilities",
+    "icon": "GiChickenOven",
+    "code": 569
+  },
+  {
+    "name": "Grill/BBQ",
+    "icon": "GiChickenLeg",
+    "code": 571
+  },
+  {
+    "name": "Ski storage",
+    "icon": "FaRegCircle",
+    "code": 572
+  },
+  {
+    "name": "Private pool",
+    "icon": "FaSwimmingPool",
+    "code": 573
+  },
+  {
+    "name": "Private beach area",
+    "icon": "FaUmbrellaBeach",
+    "code": 574
+  },
+  {
+    "name": "Electric kettle",
+    "icon": "FaBlender",
+    "code": 576
+  },
+  {
+    "name": "Bikes available",
+    "icon": "FaMotorcycle",
+    "code": 577
+  },
+  {
+    "name": "Towels and bed linen",
+    "icon": "FaBed",
+    "code": 578
+  },
+  {
+    "name": "Hotel’s own bike shop/workshop",
+    "icon": "FaTools",
+    "code": 579
+  }
+]
